@@ -1,6 +1,6 @@
 "# finder" 
 
-It is an Android app related to lost and found vehicles. Google Firebase used as database.
+This is an Android app related to lost and found vehicles. Google Firebase used as database.
 The app is developed using Android Studio.
 
 *****imp*****
